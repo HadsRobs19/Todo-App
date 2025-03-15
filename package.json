@@ -1,6 +1,7 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
+  "homepage": "https://HadsRobs19.github.io/Todo-App",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
